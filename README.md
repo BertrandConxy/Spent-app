@@ -1,0 +1,2 @@
+# Spent-app
+Most of the people do not track how they spend their money while it is the best way that can help them  achieve their financial goal. Spent is the expense tracking mobile-first web app that helps the user to track how and where they spent their money. Transactions are grouped by the category to help them know where they spend most of their money. It is built with Ruby on Rails and Bootstrap to handle beautiful user interface.
